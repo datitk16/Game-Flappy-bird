@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\asus\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\asus\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\asus\source\repos\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\asus\source\repos\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\asus\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\asus\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\Users\asus\source\repos\FlappyBird\FlappyBird\obj\Debug\Interop.WMPLib.dll
+C:\Users\asus\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.ResolveComReference.cache
